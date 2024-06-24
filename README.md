@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es parte del cursus 42 y se llama **fractol**. El objetivo es explorar fractales matemáticos a través de una interfaz gráfica. Para ello se utiliza la minilibx. Actualmente, solo está programado el conjunto de Mandelbrot. El proyecto está en desarrollo y se publica a modo representativo de los que es proyecto. Tiene como recursos la libreria gráfica citada y la una librería propia **libft** realizada en un proyecto anterior del cursus.
+Este proyecto es parte del cursus 42 y se llama **fractol**. El objetivo es explorar fractales matemáticos a través de una interfaz gráfica. Para ello se utiliza la libreria minilibx. Actualmente, solo está programado el conjunto de Mandelbrot. El proyecto está en desarrollo y se publica a modo representativo de lo que es el proyecto. Tiene como recursos la libreria gráfica citada y la librería propia **libft** realizada en un proyecto anterior del cursus.
 
 ## Compilación
 
