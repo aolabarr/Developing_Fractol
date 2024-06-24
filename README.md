@@ -35,6 +35,7 @@ Para ejecutar el programa, utiliza el siguiente comando:
 - **ESC** o cerrar la ventana: Finaliza el programa.
 - **Flechas del teclado**: Mueve la imagen en traslación.
 - **Scroll del ratón**: Hace zoom (Nota: la implementación del zoom no está bien).
+- **Delete**: Vuelve al zoom inicial.
 
 ## Nota
 
